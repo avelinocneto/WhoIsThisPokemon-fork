@@ -1,4 +1,4 @@
-package com.rnwhoisthispokemon;
+package com.blazingcode.whoisthispokemon;
 
 import android.app.Application;
 
